@@ -14,7 +14,7 @@ const readline = require("readline");
 const ytdl = require("@distube/ytdl-core");
 const ffmpeg = require("ffmpeg-static");
 // Global constants
-const ref = "https://www.youtube.com/watch?v=ppKmnIUHuZ8";
+const ref = "https://www.youtube.com/watch?v=IoKzdWSmQjo";
 const tracker = {
   start: Date.now(),
   audio: { downloaded: 0, total: Infinity },
